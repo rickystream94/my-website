@@ -49,7 +49,7 @@ Furthermore, I enjoy a lot the local development experience:
 ## Hosting and deployment
 
 * The whole website is under source control on **GitHub**:
-    {{< github repo="rickystream94/rickystream94.github.io" >}}
+    {{< github repo="rickystream94/my-website" >}}
 * To keep the repository as "light" as possible, I am storing most media files in an external [Azure Storage BLOB container](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction).
 * [Azure Static Web App](https://learn.microsoft.com/en-us/azure/static-web-apps/): is an offer from Azure which allows you to build modern web applications that automatically publish to the web as your code changes.
 * Thanks to this [documentation](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-hugo), it was really straightforward to setup a **GitHub Actions** workflow that would re-publish the website automatically to my Static Web App resource, whenever a new commit in `master` branch is detected.

@@ -39,7 +39,7 @@
 [[main]]
   pre = "github"
   identifier = "github"
-  url = "https://github.com/nunocoracao/blowfish"
+  url = "https://github.com/rickystream94"
   weight = 60
 
 [[main]]
