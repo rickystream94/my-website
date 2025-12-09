@@ -129,11 +129,11 @@ smartTOCHideUnfocusedChildren = true
   # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-  # identifier = ""
-  # globalWidget = true
-  # globalWidgetMessage = "Hello"
-  # globalWidgetColor = "#FFDD00"
-  # globalWidgetPosition = "Right"
+  identifier = "rickystream94"
+  globalWidget = true
+  globalWidgetMessage = "Enjoying the content? Fuel my next project with a slice of pizza 🍕! Your support motivates me to spend more time creating awesome stuff 🙏🙌"
+  globalWidgetColor = "#ffbb00ff"
+  globalWidgetPosition = "Right"
 
 [verification]
   # google = ""

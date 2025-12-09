@@ -25,12 +25,16 @@ heroStyle: "background"
 </thead>
 <tbody>
   <tr>
-    <td rowspan="3"><img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/experience/microsoft_logo.png" class="customLogo"/></td>
-    <td rowspan="3"><a href="https://www.microsoft.com/da-dk/development" target="_blank">Microsoft Development Center Copenhagen</a></td>
-    <td rowspan="3">Dynamics 365 Business Central</td>
+    <td rowspan="4"><img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/experience/microsoft_logo.png" class="customLogo"/></td>
+    <td rowspan="4"><a href="https://www.microsoft.com/da-dk/development" target="_blank">Microsoft Development Center Copenhagen</a></td>
+    <td rowspan="4">Dynamics 365 Business Central</td>
+    <td>Senior Software Engineer</td>
+    <td>09/2025 - Present</td>
+    <td rowspan="5">Copenhagen, DK</td>
+  </tr>
+  <tr>
     <td>Software Engineer 2</td>
-    <td>03/2022 - Present</td>
-    <td rowspan="4">Copenhagen, DK</td>
+    <td>03/2022 - 08/2025</td>
   </tr>
   <tr>
     <td>Software Engineer 1</td>
