@@ -1,10 +1,12 @@
 ---
-title: "My 2024 Recap"
+title: "⏪ My 2024 Recap"
 date: 2024-12-31
 topics: ['Life & Experiences']
 ---
 
 As another year draws to a close, it is time for a little reflection. 2024 has been a year of personal growth, exciting projects, and some seriously unforgettable moments. Please allow me to share some of my highlights.
+
+<!--more-->
 
 ## 3️⃣0️⃣ Thirty, Flirty, and Thriving
 

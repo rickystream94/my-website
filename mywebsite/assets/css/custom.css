@@ -58,6 +58,27 @@ td {
     vertical-align: middle !important;
 }
 
+/* --- Single page layout tweaks (Blowfish) ---
+   Goal:
+   - Make article content wider than the default `max-w-prose`.
+*/
+@media screen and (min-width: 1024px) {
+    #main-content article .article-content.max-w-prose {
+        max-width: 100% !important;
+    }
+}
+
+/* --- Blowfish background blur behavior ---
+   Blowfish's blurred overlay (#background-blur) also applies a semi-opaque neutral
+   background color. As it fades in with scroll, this can look like the hero image
+   fades smoothly into the theme background.
+
+   Make the overlay transparent so we get a "blur-only" effect.
+*/
+#background-blur {
+    background-color: transparent !important;
+}
+
 .img-w60 {
     display: block;
     float: none;

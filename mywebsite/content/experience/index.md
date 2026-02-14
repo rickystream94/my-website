@@ -10,7 +10,7 @@ showPagination: false
 heroStyle: "background"
 ---
 
-## Work :office_worker:
+## Work 💼
 
 <table>
 <thead>
@@ -56,7 +56,7 @@ heroStyle: "background"
 
 ---
 
-## Education :graduation_cap:
+## Education 🎓
 
 <table>
 <thead>

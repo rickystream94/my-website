@@ -1,5 +1,5 @@
 ---
-title: "Tromsø: 5 days itinerary in the Arctic capital"
+title: "❄️ Tromsø: 5 days itinerary in the Arctic capital"
 date: 2024-12-05
 topics: ['Life & Experiences','Travel']
 ---
@@ -7,6 +7,8 @@ topics: ['Life & Experiences','Travel']
 {{< alert icon="triangle-exclamation" >}}
 **Work In Progress**: I am still adding my full travel itinerary, tips, and resources to this article. Enjoy the photos for now, and check back soon for the complete guide.
 {{< /alert >}}
+
+<!--more-->
 
 <br />
 

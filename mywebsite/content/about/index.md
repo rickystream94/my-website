@@ -33,7 +33,7 @@ My Master's project, titled _The Role of Divisive Topics in Network Structure_, 
 Since 2016, I've called Copenhagen home. I've embraced the Danish lifestyle, and the city offers fantastic access to green spaces, cycling infrastructure, and a thriving cultural scene.
 
 {{< lead >}}
-:light_bulb: Curious about my experience adapting to life in Copenhagen? Stay tuned for a future blog post where I'll explore the ups and downs of settling in this amazing city from a foreigner's perspective.
+💡 Curious about my experience adapting to life in Copenhagen? Stay tuned for a future blog post where I'll explore the ups and downs of settling in this amazing city from a foreigner's perspective.
 {{< /lead >}}
 
 {{< figure
@@ -79,9 +79,9 @@ I consume loads of news and content about self-development, fitness, society, po
 I enjoy video editing and showcasing my work on my [YouTube channel](https://www.youtube.com/@rickystream94). I'm also a passionate language learner on [Duolingo](https://www.duolingo.com/profile/rickystream94) and a proud **Google Maps Local Guide**, sharing valuable feedback and content with the community.
 
 {{< lead >}}
-:glowing_star: :ringed_planet: Sharing positive energy and engaging in inspiring conversations is a source of joy for me.
+🌟 🪐 Sharing positive energy and engaging in inspiring conversations is a source of joy for me.
 While I embrace an active and social lifestyle, I also believe in the power of **slowing down**.
-Disconnecting to reconnect – maybe by finally taking that long-awaited trip – is key to maintaining a fresh perspective and a clear mind. :sunrise_over_mountains:
+Disconnecting to reconnect – maybe by finally taking that long-awaited trip – is key to maintaining a fresh perspective and a clear mind. 🌄
 {{< /lead >}}
 
 {{< figure
@@ -93,7 +93,7 @@ Disconnecting to reconnect – maybe by finally taking that long-awaited trip �
 
 ---
 
-## Spotlight :studio_microphone:
+## Spotlight 🎙️
 
 {{< timeline >}}
 

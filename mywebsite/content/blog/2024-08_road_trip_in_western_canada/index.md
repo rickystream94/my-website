@@ -1,5 +1,5 @@
 ---
-title: "Western Canada: 2 weeks road trip"
+title: "🚗 Western Canada: 2 weeks road trip"
 date: 2024-08-31
 topics: ['Life & Experiences','Travel']
 ---
@@ -7,6 +7,8 @@ topics: ['Life & Experiences','Travel']
 {{< alert icon="triangle-exclamation" >}}
 **Work In Progress**: I am still adding my full travel itinerary, tips, and resources to this article. Enjoy the photos for now, and check back soon for the complete guide.
 {{< /alert >}}
+
+<!--more-->
 
 <br />
 

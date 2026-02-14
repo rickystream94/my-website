@@ -1,5 +1,5 @@
 ---
-title: "How I built my new blog with Hugo and Azure Static Web Apps"
+title: "🛠️ How I built my new blog with Hugo and Azure Static Web Apps"
 date: 2024-03-02
 topics: ['Web Development', 'Microsoft Azure']
 featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/logo.png"
@@ -9,6 +9,9 @@ featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_asset
 
 Since 2016, I used to have a hosting plan with [Aruba](https://www.aruba.it/), and I was using **Wordpress** mainly because of its convenience as a CMS.
 To a certain extent, the idea of using a CMS made sense for an individual like me, who wanted to invest more time on the creativity aspect, while spending little to no time on development and maintenance overhead.
+
+<!--more-->
+
 I do believe Wordpress is quite powerful and there's really no limit to what you can create with it, and I'm not even considering the extra boost you get once you start integrating plugins.
 Therefore, for quite a while, I found myself happy with this setup.
 However, considering the relatively small amount of new contents I was publishing, I realized over the years that using a CMS for a personal portfolio website had more drawbacks than benefits (relatively slow performance, extra cost for a database, need of a backend, just to name a few).
