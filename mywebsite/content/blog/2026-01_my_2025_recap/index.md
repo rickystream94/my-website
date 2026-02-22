@@ -3,13 +3,15 @@ title: "⏪ My 2025 Recap"
 date: 2025-12-31
 topics: ['Life & Experiences']
 featureImage: "https://richmondwebmedia.blob.core.windows.net/media/blog/2026-01_my_2025_recap/featured_1.png"
-#draft: true
+draft: true
 ---
 
 ---
 
 TODO:
 - Could add to 2024 recap that I visited the "Cinque Terre".
+- Add promotion so Senior
+- Add creation of Notion dashboard (ref. separate blog post)
 
 ---
 
@@ -94,7 +96,7 @@ These trips reminded me how much I love landscapes that make you feel small in t
 After years of procrastination, confusion, and existential dread, I finally got my **Danish taxes** in proper order.
 A deeply unsexy achievement, but a huge weight lifted.
 
-***
+---
 
 ## 😬 **The Honest Part**
 

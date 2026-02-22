@@ -31,34 +31,39 @@
   weight = 40
 
 [[main]]
+  name = "Visited Countries"
+  url = "/visited-countries"
+  weight = 50
+
+[[main]]
   pre = "linkedin"
   identifier = "linkedin"
   url = "https://linkedin.com/in/riccardo-cannistra"
-  weight = 50
+  weight = 60
 
 [[main]]
   pre = "github"
   identifier = "github"
   url = "https://github.com/rickystream94"
-  weight = 60
+  weight = 70
 
 [[main]]
   pre = "youtube"
   identifier = "youtube"
   url = "https://www.youtube.com/@rickystream94"
-  weight = 70
+  weight = 80
 
 [[main]]
   pre = "facebook"
   identifier = "facebook"
   url = "https://facebook.com/riccardo.cannistra17"
-  weight = 80
+  weight = 90
 
 [[main]]
   pre = "instagram"
   identifier = "instagram"
   url = "https://instagram.com/xrichmondx94"
-  weight = 90
+  weight = 100
 
 
 # -- Footer Menu --
