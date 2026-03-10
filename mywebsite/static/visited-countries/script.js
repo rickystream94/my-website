@@ -4,6 +4,15 @@
     .get(function (error, xml) {
       document.querySelector("#svg").appendChild(xml.documentElement);
 
+      const rootStyle = getComputedStyle(document.documentElement);
+      const landFill =
+        rootStyle.getPropertyValue("--map-land-fill").trim() || "#1a2626";
+      const landStroke =
+        rootStyle.getPropertyValue("--map-land-stroke").trim() ||
+        "rgba(233, 242, 242, 0.35)";
+      const visitedFill =
+        rootStyle.getPropertyValue("--map-visited-fill").trim() || "#e07a5f";
+
       // Make ocean and world background transparent
       d3.select("#Ocean").attr("fill", "none");
       d3.select("#World").attr("fill", "none");
@@ -12,8 +21,8 @@
       d3.selectAll("path").each(function () {
         const id = d3.select(this).attr("id");
         if (id !== "Ocean") {
-          d3.select(this).attr("fill", "#e8dcc8");
-          d3.select(this).attr("stroke", "#1a3a3a");
+          d3.select(this).attr("fill", landFill);
+          d3.select(this).attr("stroke", landStroke);
           d3.select(this).attr("stroke-width", "0.3");
         }
       });
@@ -73,8 +82,8 @@
         country.split(" ")
       );
       flattenedCountries.forEach(function (country) {
-        d3.select("#" + country).style("fill", "#e07a5f");
-        d3.selectAll("#" + country + " path").style("fill", "#e07a5f");
+        d3.select("#" + country).style("fill", visitedFill);
+        d3.selectAll("#" + country + " path").style("fill", visitedFill);
       });
 
       d3.select("#number-countries").text(countries.length);

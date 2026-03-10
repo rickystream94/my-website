@@ -1,14 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;800&display=swap');
 
 :root {
-  --primary-dark: #1a3a3a;
-  --primary-medium: #2d5a5a;
+  --primary-dark: #050a0a;
+  --primary-medium: #0e1a1a;
   --accent-warm: #e07a5f;
   --accent-gold: #d4a574;
-  --cream: #f8f4e8;
-  --cream-dark: #e8e0d0;
-  --text-dark: #2c3e3e;
-  --text-light: #f8f4e8;
+
+  /* Dark theme surfaces */
+  --cream: #121d1d;
+  --cream-dark: #0d1414;
+
+  /* Text */
+  --text-dark: #e9f2f2;
+  --text-light: #e9f2f2;
+  --text-muted: rgba(233, 242, 242, 0.72);
+  --border-muted: rgba(233, 242, 242, 0.12);
+
+  /* Map colors */
+  --map-land-fill: #1a2626;
+  --map-land-stroke: rgba(233, 242, 242, 0.35);
+  --map-hover-fill: #3a5555;
+  --map-visited-fill: #e07a5f;
 }
 
 html,
@@ -26,7 +38,7 @@ body {
   gap: 10px;
   padding: 12px 18px;
   font-size: 0.9em;
-  color: var(--primary-medium);
+  color: var(--text-muted);
   background: linear-gradient(180deg, var(--cream) 0%, var(--cream-dark) 100%);
 }
 
@@ -141,7 +153,7 @@ h1 {
 .number-section {
   margin: 15px 0 0;
   font-size: 1em;
-  color: var(--primary-medium);
+  color: var(--text-muted);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -158,7 +170,7 @@ h1 {
   font-weight: 300;
   letter-spacing: 3px;
   text-transform: uppercase;
-  color: var(--primary-medium);
+  color: var(--text-muted);
 }
 
 #header-info {
@@ -185,7 +197,7 @@ h1 {
 #map {
   padding: 30px 0 40px;
   text-align: center;
-  background: linear-gradient(180deg, var(--primary-dark) 0%, var(--primary-medium) 50%, #3d6a6a 100%);
+  background: linear-gradient(180deg, var(--primary-dark) 0%, var(--primary-medium) 50%, #102020 100%);
   position: relative;
   border-top: 4px solid var(--accent-gold);
 }
@@ -206,7 +218,7 @@ h1 {
   gap: 8px;
   font-size: 1.1em;
   font-weight: 400;
-  color: var(--primary-medium);
+  color: var(--text-muted);
 }
 
 .numbers span {
@@ -227,7 +239,7 @@ a {
 #map path:hover,
 #map .hover path,
 #map path.hover {
-  fill: #f5e6c8 !important;
+  fill: var(--map-hover-fill) !important;
   filter: brightness(1.1);
   transition: fill 0.2s ease, filter 0.2s ease;
 }
@@ -307,7 +319,7 @@ a {
   font-size: 0.9em;
   font-style: italic;
   font-weight: 300;
-  color: var(--primary-medium);
+  color: var(--text-muted);
   opacity: 0.9;
 }
 
@@ -323,9 +335,9 @@ a {
   font-size: 0.75em;
   font-weight: 600;
   padding: 4px 10px;
-  background: rgba(45, 90, 90, 0.1);
+  background: rgba(233, 242, 242, 0.06);
   border-radius: 20px;
-  color: var(--primary-medium);
+  color: var(--text-muted);
   cursor: default;
   transition: all 0.3s ease;
 }
@@ -381,7 +393,7 @@ a {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(26, 58, 58, 0.9);
+  background: rgba(0, 0, 0, 0.75);
   z-index: 1000;
   justify-content: center;
   align-items: center;
@@ -394,6 +406,7 @@ a {
 
 .modal-content {
   background: var(--cream);
+  border: 1px solid var(--border-muted);
   border-radius: 16px;
   padding: 30px;
   max-width: 600px;
@@ -419,7 +432,7 @@ a {
   top: 15px;
   right: 20px;
   font-size: 1.8em;
-  color: var(--primary-medium);
+  color: var(--text-muted);
   cursor: pointer;
   transition: color 0.3s ease, transform 0.3s ease;
   line-height: 1;
@@ -448,7 +461,7 @@ a {
   display: flex;
   align-items: center;
   gap: 8px;
-  border-bottom: 1px solid rgba(45, 90, 90, 0.1);
+  border-bottom: 1px solid var(--border-muted);
 }
 
 #countries-list li::before {
