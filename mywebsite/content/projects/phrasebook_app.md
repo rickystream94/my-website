@@ -2,7 +2,7 @@
 title: "Phrasebook: A gamified approach to memorizing phrases in a foreign language"
 date: 2017-05-09
 categories: ['Mobile Development', 'University']
-featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/featured_image.jpeg"
+featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/featured_image-1600w.webp"
 heroStyle: thumbAndBackground
 ---
 
@@ -21,18 +21,18 @@ The application has been developed as part of the final project of the [Personal
 ## Gallery
 
 {{< gallery >}}
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170508-182935.png" class="grid-w25" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170508-182943.png" class="grid-w25" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170508-182949.png" class="grid-w25" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170509-114932.png" class="grid-w25" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170930-194858.png" class="grid-w25" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170930-194908.png" class="grid-w25" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170930-195015.png" class="grid-w25" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170930-195131.png" class="grid-w25" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170930-195211.png" class="grid-w25" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170930-195316.png" class="grid-w25" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170930-195336.png" class="grid-w25" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/WhatsApp Image 2017-04-26 at 12.03.57.jpeg" class="grid-w25" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170508-182935-1600w.webp" class="grid-w25" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170508-182943-1600w.webp" class="grid-w25" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170508-182949-1600w.webp" class="grid-w25" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170509-114932-1600w.webp" class="grid-w25" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170930-194858-1600w.webp" class="grid-w25" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170930-194908-1600w.webp" class="grid-w25" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170930-195015-1600w.webp" class="grid-w25" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170930-195131-1600w.webp" class="grid-w25" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170930-195211-1600w.webp" class="grid-w25" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170930-195316-1600w.webp" class="grid-w25" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/Screenshot_20170930-195336-1600w.webp" class="grid-w25" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/WhatsApp Image 2017-04-26 at 12.03.57-1600w.webp" class="grid-w25" />
 {{< /gallery >}}
 
 ## Source code

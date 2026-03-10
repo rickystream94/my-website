@@ -17,8 +17,8 @@ First things first, I (sadly? or proudly?) joined the 30s club this year! It’s
 Let's kick things off with a huge personal victory: I officially passed *[Prøve i Dansk 3](https://danskogproever.dk/borger/danskproever/om-proeve-i-dansk-3-og-krav-til-at-bestaa/)* (official website only in Danish). This marks the culmination of a two-year journey of Danish language studies at language school. But the story goes even further back. My first tentative steps into the world of Danish began way back in March 2017, when I first started using **[Duolingo](https://www.duolingo.com/)**. While my learning was on and off for a while, I finally decided to commit more seriously around the same time I started joining Danish language classes in August 2022, and my consistent efforts on Duolingo significantly contributed to leading me to where I am today. Fun fact: Duolingo decided to present me with my "Year in Review" recap on the exact same day I passed the exam! Talk about perfect timing... As of December 31st, I had a whopping **814-day streak** on the app 🔥. It's a testament to consistency and a reminder that even small daily efforts can lead to great results 💪.
 
 {{< gallery >}}
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/Duolingo.jpg" class="grid-w50" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/Duolingo_Recap.png" class="grid-w50" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/Duolingo-1600w.webp" class="grid-w50" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/Duolingo_Recap-1600w.webp" class="grid-w50" />
 {{< /gallery >}}
 
 <br />
@@ -44,15 +44,15 @@ I had my first proper experience as a DJ assistant at a public event – the sem
 I hope I'll share more news about my journey in 2025, with even more opportunities to see me behind the decks.
 
 {{< gallery >}}
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/2024/05/2024-05-03.jpeg" class="grid-w33" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/DDJ-FLX4.jpg" class="grid-w33" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/DTU_Årsfest.jpeg" class="grid-w33" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/20241004_190805.jpg" class="grid-w33" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/IMG_9936.jpg" class="grid-w33" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/received_1390531514916445.jpeg" class="grid-w33" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/received_1606778119865684.jpeg" class="grid-w33" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/received_3784055965150716.jpeg" class="grid-w33" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/received_810643080998659.jpeg" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/2024/05/2024-05-03-1600w.webp" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/DDJ-FLX4-1600w.webp" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/DTU_Årsfest-1600w.webp" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/20241004_190805-1600w.webp" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/IMG_9936-1600w.webp" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/received_1390531514916445-1600w.webp" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/received_1606778119865684-1600w.webp" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/received_3784055965150716-1600w.webp" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/received_810643080998659-1600w.webp" class="grid-w33" />
 {{< /gallery >}}
 
 ## ❄ Chasing the Northern Lights in Tromsø

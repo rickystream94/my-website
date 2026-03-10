@@ -2,7 +2,7 @@
 title: "Big Data Tools on Amazon Product Reviews Dataset"
 date: 2016-12-04
 categories: ['Big Data', 'University']
-featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/comp_tools/feature_image.jpeg"
+featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/comp_tools/feature_image-1600w.webp"
 heroStyle: thumbAndBackground
 ---
 

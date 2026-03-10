@@ -2,7 +2,7 @@
 title: "Network Analysis and Natural Language Processing on LOTR universe"
 date: 2016-12-01
 categories: ['Data Science', 'University']
-featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/lotr_data_analysis/frodo_wordcloud.png"
+featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/lotr_data_analysis/frodo_wordcloud-1600w.webp"
 heroStyle: thumbAndBackground
 ---
 

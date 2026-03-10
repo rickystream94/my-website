@@ -2,7 +2,7 @@
 title: "M.Sc. Thesis Project: The Role of Divisive Topics in Network Structure"
 date: 2019-02-04
 categories: ['Data Science', 'Big Data', 'University']
-featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/thesis/feature_image.jpeg"
+featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/thesis/feature_image-1600w.webp"
 heroStyle: thumbAndBackground
 ---
 

@@ -2,7 +2,7 @@
 title: "⏪ My 2025 Recap"
 date: 2025-12-31
 topics: ['Life & Experiences']
-featureImage: "https://richmondwebmedia.blob.core.windows.net/media/blog/2026-01_my_2025_recap/featured_1.png"
+featureImage: "https://richmondwebmedia.blob.core.windows.net/media/blog/2026-01_my_2025_recap/featured_1-2000w.webp"
 draft: true
 ---
 
@@ -12,6 +12,9 @@ TODO:
 - Could add to 2024 recap that I visited the "Cinque Terre".
 - Add promotion so Senior
 - Add creation of Notion dashboard (ref. separate blog post)
+- MSFT Social Club events
+- First effort on reducing screen time
+- Add some pics
 
 ---
 

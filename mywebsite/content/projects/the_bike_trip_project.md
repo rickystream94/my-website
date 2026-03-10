@@ -2,7 +2,7 @@
 title: "The Bike Trip Project Android App :mobile_phone:"
 date: 2017-05-01
 categories: ['Mobile Development', 'University']
-featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/bile_trip_project/featured_image.jpeg"
+featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/bile_trip_project/featured_image-1600w.webp"
 heroStyle: thumbAndBackground
 ---
 

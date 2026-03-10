@@ -2,7 +2,7 @@
 title: "Prototyping a new state of the art TIM Website"
 date: 2016-07-01
 categories: ['Web Development', 'University']
-featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/hypermedia_applications/screenshot.jpg"
+featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/hypermedia_applications/screenshot.-1600w.webp"
 heroStyle: thumbAndBackground
 ---
 

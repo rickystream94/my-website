@@ -2,7 +2,7 @@
 title: "AI-powered Sokoban puzzle solver"
 date: 2018-05-30
 categories: ['Artificial Intelligence', 'Software Development', 'University']
-featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/artificial_intelligence/feature_image.jpeg"
+featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/artificial_intelligence/feature_image-1600w.webp"
 heroStyle: thumbAndBackground
 ---
 

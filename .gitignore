@@ -10,6 +10,9 @@ Gemfile.lock
 node_modules
 package.json
 *.dll
+__pycache__/
+*.py[cod]
+.venv/
 
 # Hugo and Blowfish theme
 public/

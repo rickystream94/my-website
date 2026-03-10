@@ -2,7 +2,7 @@
 title: "Council of Four: Online Multiplayer Board Game in Java :game_die:"
 date: 2016-07-15
 categories: ['Software Development', 'University']
-featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/counciloffour/cover.jpeg"
+featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/counciloffour/cover-1600w.webp"
 heroStyle: thumbAndBackground
 ---
 
@@ -24,12 +24,12 @@ This online multiplayer video game was developed as the final project for the So
 ## Gallery
 
 {{< gallery >}}
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/counciloffour/actions.PNG" class="grid-w33" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/counciloffour/cards.PNG" class="grid-w33" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/counciloffour/login.PNG" class="grid-w33" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/counciloffour/map.PNG" class="grid-w33" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/counciloffour/market.PNG" class="grid-w33" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/counciloffour/waiting room.PNG" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/counciloffour/actions-1600w.webp" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/counciloffour/cards-1600w.webp" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/counciloffour/login-1600w.webp" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/counciloffour/map-1600w.webp" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/counciloffour/market-1600w.webp" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/counciloffour/waiting room-1600w.webp" class="grid-w33" />
 {{< /gallery >}}
 
 ## Source code

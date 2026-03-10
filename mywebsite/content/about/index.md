@@ -7,7 +7,7 @@ showAuthor: false
 showViews: false
 showLikes: false
 showPagination: false
-featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/featured_about.jpg"
+featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/featured_about-1600w.webp"
 ---
 
 {{< lead >}}
@@ -56,10 +56,10 @@ Furthermore, I believe a truly enriching work environment fosters **diversity** 
 Being surrounded by talented and passionate colleagues motivates me to push myself further and strive for excellence.
 
 {{< gallery >}}
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/about/2021_hackaton1.JPG" class="grid-w50" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/about/2021_hackaton2.JPG" class="grid-w50" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/about/20210901_125724.jpg" class="grid-w50" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/about/20240214_131116.jpg" class="grid-w50" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/about/2021_hackaton1-1600w.webp" class="grid-w50" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/about/2021_hackaton2-1600w.webp" class="grid-w50" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/about/20210901_125724-1600w.webp" class="grid-w50" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/about/20240214_131116-1600w.webp" class="grid-w50" />
 {{< /gallery >}}
 
 {{< lead >}}

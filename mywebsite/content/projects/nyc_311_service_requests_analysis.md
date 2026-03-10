@@ -2,7 +2,7 @@
 title: "Data Analysis and Visualization of NYC 311 Service Requests"
 date: 2017-12-10
 categories: ['Big Data', 'Data Analysis', 'University']
-featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/social_data_analysis/feature_image.jpg"
+featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/social_data_analysis/feature_image.-1600w.webp"
 heroStyle: thumbAndBackground
 ---
 

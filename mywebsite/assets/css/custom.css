@@ -66,6 +66,14 @@ td {
     #main-content article .article-content.max-w-prose {
         max-width: 100% !important;
     }
+
+    #main-content #single_header.max-w-prose {
+        max-width: 100% !important;
+    }
+
+    #main-content article footer.max-w-prose {
+        max-width: 100% !important;
+    }
 }
 
 /* --- Blowfish background blur behavior ---

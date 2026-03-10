@@ -2,7 +2,7 @@
 title: "Balance Assessment with Microsoft’s Kinect V2 and Unity Game Engine"
 date: 2017-12-10
 categories: ['Software Development', 'Game Development', 'University']
-featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/healthcare_technology/explanation.png"
+featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/healthcare_technology/explanation-1600w.webp"
 heroStyle: thumbAndBackground
 ---
 
@@ -22,12 +22,12 @@ Project report
 ## Gallery
 
 {{< gallery >}}
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/healthcare_technology/explanation.png" class="grid-w33" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/healthcare_technology/leg-left.png" class="grid-w33" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/healthcare_technology/leg-right.png" class="grid-w33" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/healthcare_technology/summary-screen.png" class="grid-w33" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/healthcare_technology/tilt-left.png" class="grid-w33" />
-  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/healthcare_technology/tilt-right.png" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/healthcare_technology/explanation-1600w.webp" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/healthcare_technology/leg-left-1600w.webp" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/healthcare_technology/leg-right-1600w.webp" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/healthcare_technology/summary-screen-1600w.webp" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/healthcare_technology/tilt-left-1600w.webp" class="grid-w33" />
+  <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/healthcare_technology/tilt-right-1600w.webp" class="grid-w33" />
 {{< /gallery >}}
 
 ## Bonus Exercise with Microsoft Kinect
