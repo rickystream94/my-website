@@ -2,6 +2,7 @@
 title: "❄️ Tromsø: 5 days itinerary in the Arctic capital"
 date: 2024-12-05
 topics: ['Life & Experiences','Travel']
+featureImage: "https://richmondwebmedia.blob.core.windows.net/media/blog/2024-11_tromso/featured-2000w.webp"
 ---
 
 {{< alert icon="triangle-exclamation" >}}

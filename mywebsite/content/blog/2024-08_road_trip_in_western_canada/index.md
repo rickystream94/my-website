@@ -2,6 +2,7 @@
 title: "🚗 Western Canada: 2 weeks road trip"
 date: 2024-08-31
 topics: ['Life & Experiences','Travel']
+featureImage: "https://richmondwebmedia.blob.core.windows.net/media/blog/2024-08_canada/featured-2000w.webp"
 ---
 
 {{< alert icon="triangle-exclamation" >}}

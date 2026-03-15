@@ -16,7 +16,7 @@ Passion translates to the "_Do what you love, love what you do_" philosophy.
 {{< /lead >}}
 
 {{< figure
-    src="20230812_152029.jpg"
+    src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/about/20230812_152029-1600w.webp"
     alt="Who am I?"
     caption="Science Museum, London. August 12th, 2023"
     class="img-w60"
@@ -37,7 +37,7 @@ Since 2016, I've called Copenhagen home. I've embraced the Danish lifestyle, and
 {{< /lead >}}
 
 {{< figure
-    src="2019_06_19_17_43.jpg"
+    src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/about/2019_06_19_17_43-1600w.webp"
     alt="DTU Graduation Ceremony"
     caption="Graduation Ceremony @DTU. June 19th, 2019"
     class="img-w60"
@@ -67,7 +67,7 @@ Being surrounded by talented and passionate colleagues motivates me to push myse
 Check it out below! 📹
 {{< /lead >}}
 
-<video poster="mdcc_video_placeholder.jpg" src="https://wus-streaming-video-rt-microsoft-com.akamaized.net/fa4bbad1-aed0-43d0-87b8-38f3479a0ef2/45a35a6d-dfd9-4dc4-ac4c-cf968729_6750.mp4" controls></video>
+<video poster="https://richmondwebmedia.blob.core.windows.net/media/static_assets/about/mdcc_video_placeholder-1600w.webp" src="https://s7mbrstream.scene7.com/hls-vod/microsoftcorp/_media_/c1f/c1f0dfa3-be9d-4b89-b414-a313dd8fce5d.mp4.m3u8" controls></video>
 
 ---
 
@@ -85,7 +85,7 @@ Disconnecting to reconnect – maybe by finally taking that long-awaited trip �
 {{< /lead >}}
 
 {{< figure
-    src="GOPR0332.jpg"
+    src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/about/GOPR0332-1600w.webp"
     alt="Sunset in Nordhavn, Copenhagen"
     caption="Nordhavn, Copenhagen. July 23rd, 2018"
     class="img-w80"

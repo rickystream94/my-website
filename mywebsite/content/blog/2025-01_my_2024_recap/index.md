@@ -2,6 +2,7 @@
 title: "⏪ My 2024 Recap"
 date: 2024-12-31
 topics: ['Life & Experiences']
+featureImage: "https://richmondwebmedia.blob.core.windows.net/media/blog/2025-01_my_2024_recap/featured-2000w.webp"
 ---
 
 As another year draws to a close, it is time for a little reflection. 2024 has been a year of personal growth, exciting projects, and some seriously unforgettable moments. Please allow me to share some of my highlights.

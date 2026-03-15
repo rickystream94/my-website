@@ -18,3 +18,9 @@ __pycache__/
 public/
 resources/
 mywebsite/resources/
+
+# Image optimize output
+tools/**/*.jpg
+tools/**/*.jpeg
+tools/**/*.png
+tools/**/*.webp
