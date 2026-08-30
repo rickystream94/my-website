@@ -6,18 +6,6 @@ featureImage: "https://richmondwebmedia.blob.core.windows.net/media/blog/2026-01
 draft: true
 ---
 
----
-
-TODO:
-- Could add to 2024 recap that I visited the "Cinque Terre".
-- Add promotion so Senior
-- Add creation of Notion dashboard (ref. separate blog post)
-- MSFT Social Club events
-- First effort on reducing screen time
-- Add some pics
-
----
-
 If I had to give 2025 a headline, it would probably be something like:
 **"The Year of Realignment."**
 
